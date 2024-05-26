@@ -1,0 +1,326 @@
+body{
+
+
+    background-color:rgb(246, 230, 230);
+    margin: 10;
+    font-family: Arial, sans-serif; 
+    
+}
+
+header {
+    background-color: #03c1be;
+    
+/* Espacio o area */
+    padding: 10px 0;
+/* Para donde quiero centrar mi texto */
+font-family: "Poetsen One", sans-serif;
+    text-align:center
+    
+
+    
+}
+
+
+/* estilos de la 2 pagina */
+
+.pagina2 h1{
+    background-color: #333;
+    text-align: center;
+    color:#fdfbfb;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* color del fondo de mii 2 pag */
+  body{
+    background-color:aliceblue
+  }
+
+  /* color subtitulo */
+  .sub{
+  
+    text-align: center;
+}
+
+h4{
+    font-family: "Poetsen One", sans-serif;
+    color:#43aa8b;
+}
+
+
+
+
+   /* imagen 2 pag */
+  
+   .estilo{
+    display: flex;
+   
+    justify-content: center;
+   }
+ 
+   .container2{
+    
+     /* pagina 2 para acomodar el texto */
+        column-rule-color: rgb(230, 9, 9);
+        column-rule-width: 2px;
+        column-rule-style: dashed;
+        columns: 3;
+        text-align: justify;
+      
+   }
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    text-decoration:none;
+    background-color: #333;
+    color: rgb(235, 224, 224);
+    padding: 10px 20px;
+    
+    display: inline-block;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+
+.container1{
+    color:black;
+     display: flex;
+     font-family: "Pacifico", cursive;
+     
+    justify-content: center;
+}
+
+h3{
+    color:rgb(28, 28, 31);
+    font-family: "Jersey 20", sans-serif;
+    /* texto cuerpo */
+    text-align: center;
+    
+}
+
+h2{
+    font-family: "Jersey 20", sans-serif;
+}
+
+
+
+
+.contenedor{
+   
+   
+    
+    
+    columns: 240px 2;
+    column-gap: 16px;
+    min-height: 200px;
+    padding: 10px; 
+    
+    /* border: 1px solid #333; */
+    
+    resize: both;
+    overflow: hidden;
+    
+    
+}
+
+
+.foto{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 100px;
+    justify-content: space-between;
+   
+    
+    
+}
+
+.imgcon{
+    display: flex;
+    justify-content: left;
+    font-family: "Poetsen One", sans-serif;
+    font-size: 180%;
+    color:black
+    
+}
+
+    
+
+
+
+img{
+
+    width: 20%;
+    
+}
+
+
+
+
+
+
+
+
+.btn{
+      
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+    border-radius: 50%;
+}
+.silder{
+    display: flex;
+    justify-content: center;
+}
+
+.silder-nav{
+    display: flex;
+    transition: 0.5;
+    justify-content: center;
+    gap: 20px;
+}
+/* huellitas img */
+.img{
+    
+    width: 250px;
+}
+
+.accordion-item{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #adf3f2;
+}
+
+.ajustar{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.ajustar1{
+    display: flex;
+    justify-content: center;
+   
+
+}
+
+.ajustar3{
+    display: flex;
+    justify-content: center;
+   
+
+}
+
+/* alinear imagen en modo horizontal pagina 2*/
+.conteiner-img{
+
+    display: flex;
+
+    justify-content: center;
+    
+}
+/* imagenes alineadas pag 1 de enmedio */
+.img-horizontal{
+    display: flex;
+
+    justify-content: center;
+
+}
+.img-horizontal img{
+    border-radius: 80%;
+}
+.row{
+    padding: 50px 5;
+    
+    color: aliceblue;
+    background-color: #333;
+  
+}
+.ventana{
+    display: flex;
+   justify-content: right;
+}
+.ventana img{
+    width: 150px;
+}
+.dormir{
+    display: flex;
+    justify-content: left;
+}
+
+.dormir img{
+
+    width: 10%;
+    height: 10%;
+}
+.cazar{
+    display: flex;
+    justify-content: right;
+    
+}
+
+.arañar{
+    display: flex;
+    justify-content: left;
+}
+
+.altura{
+    display: flex;
+    justify-content: right;
+}
+.carton{
+
+    display: flex;
+    justify-content: left;
+
+}
+
+.frotarse{
+    display: flex;
+    justify-content: left;
+}
+
+.fotos img{
+
+    width: 50px;
+    height: 5%;
+}
+.compañia{
+    display: flex;
+    text-align: center;
+}
+.sol{
+    display: flex;
+    justify-content: center;
+}
+
+.mimos{
+    display: flex;
+    justify-content: left;
+
+}
+.hierva{
+    display: flex;
+    justify-content: center;
+}
+h3{ 
+    font-family: "Poetsen One", sans-serif;
+    color:#43aa8b;
+}
+
+    
